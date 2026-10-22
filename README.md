@@ -10,6 +10,10 @@ Engineered an automated shell scripting framework designed to manage core Linux 
 * **Storage Metrics Diagnostics:** Programmed custom string parsing arrays using `awk` utilities to log storage capacity allocations straight to dedicated tracking repositories.
 * **Backup Compression Pipelines:** Built automated `tar` extraction workflows to create compressed copies of the primary `/etc` system configuration directory, saving them securely inside a `/backup` location labeled by date stamps.
 
+## 📁 Repository Artifacts
+* `README.md` - Operational guide and script specifications.
+* `maintenance.sh` - Bash automation script for log sweeps & backups.
+
 ## 📸 Automation Script Execution Verification
 
 ### Script Execution & Status Log Verification:
